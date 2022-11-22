@@ -17,3 +17,6 @@ Several constraints were placed on the selection of these instances from a large
 * DiabetesPedigreeFunction: Diabetes pedigree function
 * Age: Age (years)
 * Outcome: Class variable (0 or 1)
+
+Data source: This dataset is originally from the N. Inst. of Diabetes & Diges. & Kidney Dis. 
+https://www.kaggle.com/datasets/mathchi/diabetes-data-set
